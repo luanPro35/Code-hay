@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Việt Nam là số 1</h1>
+    <p>Tôi muốn trở thành thợ code web giàu nhất Việt Nam</p>
+    <h2>Tôi sẽ lo được gia đình nhỏ và lớn của tôi</h2>
+    <h3>Tôi yêu mọi người</h3>
+  </body>
+</html>
+//css 
+h1 {
+    color: red;
+    font-style: italic;
+  }
+  p {
+    color: blue;
+  }
+  h2 {
+    color: aqua;
+  }
+  h3 {
+    font-style: italic;
+  }
